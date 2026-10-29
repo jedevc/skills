@@ -20,4 +20,4 @@ It symlinks each skill into `~/.claude/skills`, so there's only ever one copy.
 
 | Repo | Skills | What they do |
 | --- | --- | --- |
-| [voice.md](https://github.com/jedevc/voice.md) | `voice`, `build-voice` | Write in your voice from a `VOICE.md`, and build one from your own writing. |
+| [voice.md](https://github.com/jedevc/voice.md) | `use-voice`, `build-voice` | Write in your voice from a `VOICE.md`, and build one from your own writing. |
